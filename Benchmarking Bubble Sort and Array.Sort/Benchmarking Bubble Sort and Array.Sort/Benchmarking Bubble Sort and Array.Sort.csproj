@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Benchmarking_Bubble_Sort_and_Array.Sort</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BenchmarkRunner">
+      <HintPath>..\..\..\..\..\Desktop\BenchmarkRunner\BenchmarkRunner\bin\Release\netcoreapp3.1\BenchmarkRunner.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
