@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <Reference Include="BenchmarkRunner">
-      <HintPath>..\..\..\..\..\Desktop\BenchmarkRunner\BenchmarkRunner\bin\Release\netcoreapp3.1\BenchmarkRunner.dll</HintPath>
+      <HintPath>..\..\..\BenchmarkRunner\BenchmarkRunner\bin\Release\netcoreapp3.1\BenchmarkRunner.dll</HintPath>
     </Reference>
   </ItemGroup>
 

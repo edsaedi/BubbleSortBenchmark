@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\GMRDC1\\Folder Redirection\\Edan.Saedi\\Documents\\Visual Studio 2019\\Projects\\Benchmarking Bubble Sort and Array.Sort\\Benchmarking Bubble Sort and Array.Sort\\Benchmarking Bubble Sort and Array.Sort.csproj": {}
+    "\\\\GMRDC1\\Folder Redirection\\Edan.Saedi\\Desktop\\BubbleSortBenchmark\\Benchmarking Bubble Sort and Array.Sort\\Benchmarking Bubble Sort and Array.Sort\\Benchmarking Bubble Sort and Array.Sort.csproj": {}
   },
   "projects": {
-    "\\\\GMRDC1\\Folder Redirection\\Edan.Saedi\\Documents\\Visual Studio 2019\\Projects\\Benchmarking Bubble Sort and Array.Sort\\Benchmarking Bubble Sort and Array.Sort\\Benchmarking Bubble Sort and Array.Sort.csproj": {
+    "\\\\GMRDC1\\Folder Redirection\\Edan.Saedi\\Desktop\\BubbleSortBenchmark\\Benchmarking Bubble Sort and Array.Sort\\Benchmarking Bubble Sort and Array.Sort\\Benchmarking Bubble Sort and Array.Sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Edan.Saedi\\Documents\\Visual Studio 2019\\Projects\\Benchmarking Bubble Sort and Array.Sort\\Benchmarking Bubble Sort and Array.Sort\\Benchmarking Bubble Sort and Array.Sort.csproj",
+        "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Edan.Saedi\\Desktop\\BubbleSortBenchmark\\Benchmarking Bubble Sort and Array.Sort\\Benchmarking Bubble Sort and Array.Sort\\Benchmarking Bubble Sort and Array.Sort.csproj",
         "projectName": "Benchmarking Bubble Sort and Array.Sort",
-        "projectPath": "\\\\GMRDC1\\Folder Redirection\\Edan.Saedi\\Documents\\Visual Studio 2019\\Projects\\Benchmarking Bubble Sort and Array.Sort\\Benchmarking Bubble Sort and Array.Sort\\Benchmarking Bubble Sort and Array.Sort.csproj",
+        "projectPath": "\\\\GMRDC1\\Folder Redirection\\Edan.Saedi\\Desktop\\BubbleSortBenchmark\\Benchmarking Bubble Sort and Array.Sort\\Benchmarking Bubble Sort and Array.Sort\\Benchmarking Bubble Sort and Array.Sort.csproj",
         "packagesPath": "C:\\Users\\Edan.Saedi\\.nuget\\packages\\",
-        "outputPath": "\\\\GMRDC1\\Folder Redirection\\Edan.Saedi\\Documents\\Visual Studio 2019\\Projects\\Benchmarking Bubble Sort and Array.Sort\\Benchmarking Bubble Sort and Array.Sort\\obj\\",
+        "outputPath": "\\\\GMRDC1\\Folder Redirection\\Edan.Saedi\\Desktop\\BubbleSortBenchmark\\Benchmarking Bubble Sort and Array.Sort\\Benchmarking Bubble Sort and Array.Sort\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
